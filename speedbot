@@ -49,7 +49,7 @@ client = TelegramClient('anon', api_id, api_hash)
 
 @client.on(events.NewMessage)
 async def my_event_handler(event):
-    if '.magic' in event.raw_text:
+    if '.yurak' in event.raw_text:
     	await event.edit("🤍🤍🤍🤍🤍🤍🤍🤍🤍")
     	await event.edit("🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍❤️❤️🤍❤️❤️🤍🤍")
     	await event.edit("🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍❤️❤️🤍❤️❤️🤍🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍")
