@@ -30,7 +30,7 @@ __banner__ = """\033[1;32m─█▀▄▀█─█▀▀█─█▀▀▀──
 ─█─▀─█─█▄▄█─█─▀█─▀█▀─█──────█▀▀▄─█──█───█──                    
 ─▀───▀─▀──▀─▀▀▀▀─▀▀▀─▀▀▀────▀▀▀──▀▀▀▀───▀──                   
 """
-text = "\033[1;36mMagicBot - Telegram akauntingiz uchun havfsiz Userbot\n@Speed_UzBot - faqatgina animatsialar uchun holos\nHarkuni yangilanish boradi\n@Speed_UzBot yangiliklari va Yangi modullarni telegram kanalimizda korishingiz mumkun\nxavfsizlik doirasi - bu bot Serverga ulanmagan.\nhttps://t.me/@Speed_UzBot\n******************************************************\n"
+text = "\033[1;36mMagicBot - Telegram akauntingiz uchun havfsiz Userbot\n@Speed_UzBot - faqatgina animatsialar uchun holos\nHarkuni yangilanish boradi\n@Speed_UzBot yangiliklari va Yangi modullarni telegram kanalimizda korishingiz mumkun\nxavfsizlik doirasi - bu bot Serverga ulanmagan.\nhttps://t.me/@Speed_UzBot \n Admin Aziz Xakimov\n******************************************************\n"
 clearscreen()
 os.system("termux-open-url https://t.me/Speed_UzBot")
 print(__logo__)
@@ -1528,10 +1528,7 @@ async def my_event_handler(event):
 10- .abbos
 11- .fazilat
 12 .mohinur""")
-    elif '.alone' in event.raw_text:
-       await event.edit("https://youtu.be/mptz1ZKkg24")
-       
-
+    
     
 	
 
