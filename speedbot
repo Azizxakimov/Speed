@@ -1384,6 +1384,18 @@ async def my_event_handler(event):
        await event.edit("esingdami jigar bizning bolalik?\nushanda yuq edi")
        await event.edit("esinfdami jigar bizning bolalil?\nushanda yuq edi bunday")
        await event.edit("esingdami jigar bizning bolalik? \nushanda yuq edi bunday soxtalik😔")
+    elif '.jinni' in event.raw_text:
+       await event.edit("J")
+       await event.edit("Ji")
+       await event.edit("Jin")
+       await event.edit("Jinn")
+       await event.edit("Jinni")
+       await event.edit("Jinni😂")
+       await event.edit("Jinni❤")
+       await event.edit("Jinni🙃")
+       await event.edit("Jinni😉")
+       await event.edit("Jinni🙂")
+       await event.edit("Jinni☺")
     elif '.hack' in event.raw_text:
        await event.edit("akauntingizga buzib kirilmoqda - 5%")
        await event.edit("akauntingizga buzib kirilmoqda - 10%")
