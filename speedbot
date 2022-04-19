@@ -1417,7 +1417,7 @@ async def my_event_handler(event):
        await event.edit("Jinni😉")
        await event.edit("Jinni🙂")
        await event.edit("Jinni☺")
-     elif '.maktab' in event.raw_text:
+     elif '.school' in event.raw_text:
        await event.edit("🏢 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||🚗 🏡")
        await event.edit("🏢 |||||||||||||||||||||||||||||||||||||||||||||||||||||||🚗| 🏡")
        await event.edit("🏢 ||||||||||||||||||||||||||||||||||||||||||||||||||||||🚗|| 🏡")
