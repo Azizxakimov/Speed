@@ -1412,7 +1412,7 @@ async def my_event_handler(event):
        await event.edit("Jinni🤗")
        await event.edit("Jinni🤍")
        await event.edit("Jinni❤")
-       await event.ediy("Jinni😍")
+       await event.edit("Jinni😍")
        await event.edit("Jinni💙")
        await event.edit("Jinni🖐")
        await event.edit("Jinni✋")
@@ -1440,7 +1440,7 @@ async def my_event_handler(event):
        await event.edit("Jinni🤗")
        await event.edit("Jinni🤍")
        await event.edit("Jinni❤")
-       await event.ediy("Jinni😍")
+       await event.edit("Jinni😍")
        await event.edit("Jinni💙")
        await event.edit("Jinni🖐")
        await event.edit("Jinni✋")
@@ -1448,61 +1448,6 @@ async def my_event_handler(event):
        await event.edit("Jinni🙃")
        await event.edit("Jinni😉")
        await event.edit("Jinni🙂")
-       await event.edit("Jinni☺")
-       await event.edit("Jinni😀")
-
-       await event.edit("Jinni😃")
-
-       await event.edit("Jinni😄")
-
-       await event.edit("Jinni😆")
-
-       await event.edit("Jinni🙂")
-
-       await event.edit("Jinni😂")
-
-       await event.edit("Jinni😉")
-
-       await event.edit("Jinni😂")
-
-       await event.edit("Jinni🥰")
-
-       await event.edit("Jinni😊")
-
-       await event.edit("Jinni😇")
-
-       await event.edit("Jinni☺")
-
-       await event.edit("Jinni😜")
-
-       await event.edit("Jinni🤪")
-
-       await event.edit("Jinni😝")
-
-       await event.edit("Jinni🥰")
-
-       await event.edit("Jinni🤗")
-
-       await event.edit("Jinni🤍")
-
-       await event.edit("Jinni❤")
-       
-       await event.ediy("Jinni😍")
-
-       await event.edit("Jinni💙")
-
-       await event.edit("Jinni🖐")
-
-       await event.edit("Jinni✋")
-
-       await event.edit("Jinni👋")
-
-       await event.edit("Jinni🙃")
-
-       await event.edit("Jinni😉")
-
-       await event.edit("Jinni🙂")
-
        await event.edit("Jinni☺")
        await event.edit("Jinni😀")
 
@@ -1542,7 +1487,7 @@ async def my_event_handler(event):
 
        await event.edit("Jinni❤")
        
-       await event.ediy("Jinni😍")
+       await event.edit("Jinni😍")
 
        await event.edit("Jinni💙")
 
@@ -1597,7 +1542,7 @@ async def my_event_handler(event):
 
        await event.edit("Jinni❤")
        
-       await event.ediy("Jinni😍")
+       await event.edit("Jinni😍")
 
        await event.edit("Jinni💙")
 
@@ -1652,7 +1597,7 @@ async def my_event_handler(event):
 
        await event.edit("Jinni❤")
        
-       await event.ediy("Jinni😍")
+       await event.edit("Jinni😍")
 
        await event.edit("Jinni💙")
 
@@ -1706,7 +1651,8 @@ async def my_event_handler(event):
        await event.edit("Jinni🤍")
 
        await event.edit("Jinni❤")
-       await event.ediy("Jinni😍")
+       
+       await event.edit("Jinni😍")
 
        await event.edit("Jinni💙")
 
@@ -1760,7 +1706,7 @@ async def my_event_handler(event):
        await event.edit("Jinni🤍")
 
        await event.edit("Jinni❤")
-       await event.ediy("Jinni😍")
+       await event.edit("Jinni😍")
 
        await event.edit("Jinni💙")
 
@@ -1814,7 +1760,61 @@ async def my_event_handler(event):
        await event.edit("Jinni🤍")
 
        await event.edit("Jinni❤")
-       await event.ediy("Jinni😍")
+       await event.edit("Jinni😍")
+
+       await event.edit("Jinni💙")
+
+       await event.edit("Jinni🖐")
+
+       await event.edit("Jinni✋")
+
+       await event.edit("Jinni👋")
+
+       await event.edit("Jinni🙃")
+
+       await event.edit("Jinni😉")
+
+       await event.edit("Jinni🙂")
+
+       await event.edit("Jinni☺")
+       await event.edit("Jinni😀")
+
+       await event.edit("Jinni😃")
+
+       await event.edit("Jinni😄")
+
+       await event.edit("Jinni😆")
+
+       await event.edit("Jinni🙂")
+
+       await event.edit("Jinni😂")
+
+       await event.edit("Jinni😉")
+
+       await event.edit("Jinni😂")
+
+       await event.edit("Jinni🥰")
+
+       await event.edit("Jinni😊")
+
+       await event.edit("Jinni😇")
+
+       await event.edit("Jinni☺")
+
+       await event.edit("Jinni😜")
+
+       await event.edit("Jinni🤪")
+
+       await event.edit("Jinni😝")
+
+       await event.edit("Jinni🥰")
+
+       await event.edit("Jinni🤗")
+
+       await event.edit("Jinni🤍")
+
+       await event.edit("Jinni❤")
+       await event.edit("Jinni😍")
 
        await event.edit("Jinni💙")
 
