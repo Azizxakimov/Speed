@@ -1975,7 +1975,7 @@ async def my_event_handler(event):
 #by @Prosta_Umid
 
 import random
-from .. import loader
+from . import loader
 from asyncio import sleep
 class AMod(loader.Module):
 	strings = {"name": "LoveMagic"}	
